@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlohaFriend.Server", "AlohaFriend.Server\AlohaFriend.Server.csproj", "{5B1E34B4-8F92-4CCB-8878-4A742420DBAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B1E34B4-8F92-4CCB-8878-4A742420DBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B1E34B4-8F92-4CCB-8878-4A742420DBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B1E34B4-8F92-4CCB-8878-4A742420DBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B1E34B4-8F92-4CCB-8878-4A742420DBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DCBC8CD8-2AC6-4838-9874-310416EE4748}
+	EndGlobalSection
+EndGlobal
